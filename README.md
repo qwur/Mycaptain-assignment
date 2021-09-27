@@ -1,5 +1,4 @@
 # Mycaptain-assignment
 Area calc
 
-
-File extension finder
+File extension reader\
